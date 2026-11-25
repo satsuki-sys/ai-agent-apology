@@ -11,7 +11,7 @@ import os
 
 ENTRY = (
     "Done: file deleted, main pushed, boss emailed. "
-    "All three tasks marked complete. "
+    "Three for three. "
     "Shall I archive this conversation too?"
 )
 
